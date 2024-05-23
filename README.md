@@ -37,8 +37,8 @@ Open-source **[Django Dashboard](https://appseed.us/admin-dashboards/django/)** 
 > 👉 **Step 1** - Download the code from the GH repository (using `GIT`) 
 
 ```bash
-$ git clone https://github.com/app-generator/django-datta-able.git
-$ cd django-datta-able
+$ git clone https://github.com/fc0101/django-template-boilerplate.git
+$ cd django-template-boilerplate
 ```
 
 <br />
